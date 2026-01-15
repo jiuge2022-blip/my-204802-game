@@ -22,11 +22,12 @@
   "screenshots": [
     {
       "src": "/screen.png",
-      "sizes": "1080x1920",
+      "sizes": "512x512",
       "type": "image/png",
       "form_factor": "narrow"
     }
   ]
 }
+
 
 
