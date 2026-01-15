@@ -1,12 +1,10 @@
 {
-  "name": "2048 Game",
+  "name": "Solana 2048",
   "short_name": "2048",
-  "description": "A classic 2048 puzzle game built for Solana Seeker.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "id": "/",
   "icons": [
     {
       "src": "/icon-192.png",
@@ -14,17 +12,9 @@
       "type": "image/png"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/icon-192.png",
       "sizes": "512x512",
       "type": "image/png"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "/screen.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "form_factor": "narrow"
     }
   ]
 }
